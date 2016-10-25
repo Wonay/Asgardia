@@ -1,15 +1,18 @@
-TODO
+# Awesome Asgardia [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+A curated list of awesome Asgardia resources.
 
 Follow Guidelines from https://github.com/sindresorhus/awesome/blob/master/create-list.md
 
-*Website:
+## Website:
+
 https://asgardia.space
 
-*Main Facebook Page:
+## Main Facebook Page:
 
 https://www.facebook.com/asgardia.space
 
-*Official National Chapters:
+## Official National Chapters:
 
 Asgardia Belgium: https://www.facebook.com/AsgardiaBelgium
 Asgardia UK: https://www.facebook.com/AsgardiaUK
@@ -18,9 +21,9 @@ Asgardia Italy: https://www.facebook.com/asgardiaitaly
 Asgardia Sweden: https://www.facebook.com/AsgardiaSverige
 Asgardia Germany: https://www.facebook.com/AsgardiaDeutschland
 
-*Facebook Groups:
+## Facebook Groups:
 
-**Official
+Official
 
 https://www.facebook.com/groups/1384967481531167 Official
 https://www.facebook.com/groups/982428528567619 Administration
@@ -29,6 +32,6 @@ https://www.facebook.com/groups/1810383995852331 Engineering
 https://www.facebook.com/groups/689437217873838 Physics
 https://www.facebook.com/groups/344212122595709 Earth Relations
 
-**Community Driven
+Community Driven
 
 https://www.facebook.com/groups/AsGardiaFun Fun (includes Art)
